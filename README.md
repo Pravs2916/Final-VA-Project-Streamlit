@@ -1,7 +1,7 @@
 # Climate Change Impact On Agriculture
 
 
-Hello! This is my final project  ***Visual Analytics*** course! 
+Hello! This is my final project for  ***Visual Analytics*** - ***DSBA 5122*** course! 
 
  ## Streamlit Link : [View my Streamlit App here!](https://final-project-va--app-gowthami-sai-pravallika.streamlit.app "Click to view the dashboard")
  
@@ -13,7 +13,7 @@ Climate change significantly affects agriculture, influencing factors such as cr
 
  ## Data/Operation Abstraction Design  
 
-The dataset includes metrics such as temperature, precipitation, and crop yields. This app features dynamic and interactive visualizations, including line charts for observing trends in climate variables over time, correlation heatmaps to identify relationships between metrics, and box plots to compare agricultural outcomes across different categories such as regions or crop types. Filters for years, regions, and variables allow users to tailor the visualizations to their specific areas of interest, enhancing the insights they can derive. Plotly's interactivity further enriches the data exploration experience.
+The dataset is from kaggle which includes metrics such as temperature, precipitation, and crop yields. This app features dynamic and interactive visualizations, including line charts for observing trends in climate variables over time, correlation heatmaps to identify relationships between metrics, and box plots to compare agricultural outcomes across different categories such as regions or crop types. Filters for years, regions, and variables allow users to tailor the visualizations to their specific areas of interest, enhancing the insights they can derive. Plotly's interactivity further enriches the data exploration experience.
 
 ##  Future Work  
 This app could forecast agricultural productivity using predictive modeling and real-time data from satellites or weather stations. Incorporating socio-economic factors and region-specific analyses would offer comprehensive insights and actionable strategies to address climate change impacts on agriculture. It could also evaluate economic trends and suggest sustainable practices, providing tools to support farmers and decision-makers in mitigating risks.
